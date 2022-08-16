@@ -4,7 +4,7 @@ MY PERSONAL REPOSITORY
 - 🔭 I’m currently Searching  for a Job  
 - 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate on new Project 
-- 💬 Ask me about ...
+- 😎  I am an ambitious person with no limits, I never give up. I am also a quick learner and self-motivated and I have passion and determination.
 
 <h1>About Me 📌</h1>
 
@@ -42,8 +42,8 @@ MY PERSONAL REPOSITORY
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
-  <a href = "mailto:majd.khasib98@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/Ayajalal/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
+  <a href = "ayaismeal99@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
+  <a href = "https://www.linkedin.com/in/aya-ismeal-9b64601ba/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
  
 </p>
 
